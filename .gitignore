@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+Content/Basement_Tavern
+Content/MedievalDungeon
+Content/Victorian_House
+Content/AncientTreasures
+Content/RealLiquidX
